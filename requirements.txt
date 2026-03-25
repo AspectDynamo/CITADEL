@@ -1,0 +1,7 @@
+# Project Dependencies
+
+flask
+requests
+django
+numpy
+pandas
